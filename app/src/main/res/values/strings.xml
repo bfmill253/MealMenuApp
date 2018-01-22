@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MealMenuApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity Strings-->
+
+    <!--Filter Card -->
+    <string name="filter_title">Filter</string>
+    <!-- We can hard code these since the scope only requires 2 non changable values -->
+    <string name="filter_veggie">Veggie</string>
+    <string name="filter_non_veggie">Non-Veggie</string>
+
+    <!-- Menu Card -->
+    <string name="menu_title">Menu</string>
+    <string name="submit_button">Submit</string>
+    <string name="empty_menu">Nothing to Show :(</string>
+
+    <!--Add Item Dialog-->
+    <string name="add_item_title">Add Item</string>
+    <string name="input_hint">Item Name</string>
+    <string name="vegie_switch">This is a veggie item</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Submit Dialog-->
+    <string name="submit_title">Order Submitted</string>
+    <string name="submit_dismiss">OK</string>
+
+
+</resources>
